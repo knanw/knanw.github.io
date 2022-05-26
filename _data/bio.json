@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Wolfram Knan",
+    "label": "Software Engineer",
+    "picture": "https://techfolios.github.io/template/images/foto_fuer_badge.png",
+    "email": "knanw@outlook.com",
+    "phone": "",
+    "website": "https://knanw.github.io",
+    "summary": "Hi, I am a Software Engineer. I use technologies like Java and TypeScript",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "knanw",
+        "url": "https://github.com/knanw"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "https://linkedin.com/in/knanw"
       }
     ]
   },
