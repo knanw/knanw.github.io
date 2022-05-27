@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Wolfram Knan",
         "url": "https://linkedin.com/in/knanw"
       }
     ]
@@ -51,12 +51,20 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "TypeScript",
+        "Vue.js",
+        "HTML/CSS",
+        "Java",
+        "Jakarta EE",
+        "Microprofile",
+        "SQL",
+        "Hibernate",
+        ".NET",
+        "Docker",
+        "Python",
+        "C",
+        "C++"
       ]
     },
     {
@@ -64,33 +72,32 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Ubuntu/Linux",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Applied Sciences, Berlin",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2013-03-01",
+      "endDate": "2016-11-30",
+      "gpa": "2.9",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "GeekInBusiness GmbH",
+      "position": "Full Stack Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Software development and consulting for frontend and backend software",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
