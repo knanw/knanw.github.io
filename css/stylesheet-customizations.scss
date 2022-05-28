@@ -15,11 +15,26 @@ body {
   // background: $background-start;
 }
 
+// Customize essay page layout and color
+.ui.text.container {
+  padding: 30px;
+}
+
+// Make code block like SO
+pre.highlight {
+  background: rgb(239, 240, 241);
+  padding: 5px;
+}
+
+code.highlighter-rouge {
+  background: rgb(234, 235, 236);
+  padding: 0 5px;
+}
+
 // Customize the home page icon colors
 .icon-color {
   // color: silver;
 }
-
 // links icon customization
 .github.icon.icon-color:hover {
   color: #800080;
