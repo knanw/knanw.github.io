@@ -60,17 +60,17 @@
         "Microprofile",
         "SQL",
         "Hibernate",
-        ".NET",
-        "Docker"
+        ".NET"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu/Linux",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Docker",
+        "MacOS"
       ]
     }
   ],
