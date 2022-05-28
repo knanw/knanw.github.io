@@ -9,10 +9,10 @@
     "summary": "Hi, I am a Software Engineer. I use technologies like Java and TypeScript",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "93049",
+      "city": "Regensburg",
+      "countryCode": "DE",
+      "region": "Bavaria"
     },
     "profiles": [
       {
@@ -61,10 +61,7 @@
         "SQL",
         "Hibernate",
         ".NET",
-        "Docker",
-        "Python",
-        "C",
-        "C++"
+        "Docker"
       ]
     },
     {
@@ -73,8 +70,7 @@
       "keywords": [
         "MacOS",
         "Ubuntu/Linux",
-        "Git/GitHub",
-        "g++"
+        "Git/GitHub"
       ]
     }
   ],
@@ -165,22 +161,15 @@
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
+    {
+      "title": "B.Sc. thesis",
+      "date": "2016",
+      "awarder": "State of Berlin, Germany",
+      "summary": "Permanent exhibition of my thesis in the university library 'Evaluation of a BPMN-system and implementation of selected processes in a financial services company'"
+    },
     {
       "title": "Third place",
       "date": "2015",
