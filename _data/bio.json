@@ -95,7 +95,11 @@
       "endDate": "Present",
       "summary": "Software development and consulting for frontend and backend software",
       "highlights": [
-        "Drive, design and build software projects for PIM (product inforamtion management)"
+         "Programming RESTful backend microservices with Java, Hibernate, SQL, Quarkus, Docker",
+        "Programming MVVC frontend components with TypeScript, JavaScript, Vue.js, Vuetify, Vuex",
+        "Extending and maintaining existing softwaren with Java, Primefaces, JPA, SQL",
+        "Drive, design and build software projects for PIM (product inforamtion management)",
+        "Migration of an Java-application with a PostgreSQL database on a linux server onto Windows with MS SQL Server"
       ]
     },
     {
@@ -118,7 +122,7 @@
       "endDate": "2019-12-31",
       "summary": "",
       "highlights": [
-        "Implmenetation of mobile apps in scanner handhelds for intralogistic processes like inventory management, inbound, stock transfer, ad-hoc movements, information for storage bins and handling units.",
+        "Implmenetation of mobile apps in scanner handhelds for intralogistic warehouse processes like inventory management, inbound, stock transfer, ad-hoc movements, information for storage bins and handling units.",
         "Programming in SAP EWM"
       ]
     },
