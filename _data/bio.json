@@ -104,15 +104,52 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "ProSiebenSat.1",
+      "position": "SAP Engineer",
+      "website": "https://www.prosiebensat1.com/",
+      "startDate": "2020-10-01",
+      "endDate": "2021-03-31",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Programming in SAP Finance, Controlling and HR",
+        "Cashflow analysis: overview of profitability of individual products"
+      ]
+    },
+    {
+      "company": "Swisslog (KUKA AG)",
+      "position": "SAP EWM SW Engineer",
+      "website": "https://www.swisslog.com/",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-31",
+      "summary": "",
+      "highlights": [
+        "Implmenetation of mobile apps in scanner handhelds for intralogistic processes like inventory management, inbound, stock transfer, ad-hoc movements, information for storage bins and handling units.",
+        "Programming in SAP EWM"
+      ]
+    },
+    {
+      "company": "Oettinger Davidoff AG",
+      "position": "SAP Software Engineer",
+      "website": "http://ch.oettingerdavidoff.com/",
+      "startDate": "2017-12-01",
+      "endDate": "2018-12-31",
+      "summary": "",
+      "highlights": [
+        "Programming extensions in SAP Sales, Materials Management and HR",
+        "Integration and development of interfaces with an enterprise-service-bus",
+        "Setting up the Fiori launchpad platform"
+      ]
+    },
+    {
+      "company": "Cerner Corporation",
+      "position": "SAP Developer for Healthcare",
+      "website": "https://www.cerner.com/",
+      "startDate": "2017-01-01",
+      "endDate": "2017-11-30",
+      "summary": "",
+      "highlights": [
+        "Programming of SAP IS-H solutions, subscreens and GUI's",
+        "Implementation of the new release management in hospitals §301 SGB"
       ]
     }
   ],
