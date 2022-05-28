@@ -35,6 +35,10 @@ code.highlighter-rouge {
 .icon-color {
   color: silver;
 }
+.mail.icon.icon-color:hover {
+  color: red;
+  background-color: black;
+}
 // links icon customization
 .github.icon.icon-color:hover {
   color: #800080;
