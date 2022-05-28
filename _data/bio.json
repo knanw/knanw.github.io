@@ -31,8 +31,7 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Arduino"
       ]
     },
     {
@@ -77,7 +76,7 @@
   "education": [
     {
       "institution": "University of Applied Sciences, Berlin",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "website": "https://www.htw-berlin.de/",
       "studyType": "B.S.",
       "startDate": "2013-03-01",
@@ -96,8 +95,7 @@
       "endDate": "Present",
       "summary": "Software development and consulting for frontend and backend software",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Drive, design and build software projects for PIM (product inforamtion management)"
       ]
     },
     {
@@ -109,7 +107,7 @@
       "summary": "",
       "highlights": [
         "Programming in SAP Finance, Controlling and HR",
-        "Cashflow analysis: overview of profitability of individual products"
+        "Cashflow analysis: overview of profitability for individual products"
       ]
     },
     {
