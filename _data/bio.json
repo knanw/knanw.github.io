@@ -1,186 +1,174 @@
 {
-  "basics": {
-    "name": "Wolfram Knan",
-    "label": "Software Engineer",
-    "picture": "https://knanw.github.io/images/wk.jpg",
-    "email": "knanw@outlook.com",
-    "phone": "",
-    "website": "https://knanw.github.io",
-    "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "93049",
-      "city": "Regensburg",
-      "countryCode": "DE",
-      "region": "Bavaria"
+    "basics": {
+        "name": "Wolfram Knan",
+        "label": "Senior Full-Stack Engineer",
+        "picture": "https://knanw.github.io/images/wk.jpg",
+        "email": "knanw@outlook.com",
+        "phone": "",
+        "website": "https://knanw.github.io",
+        "summary": "",
+        "location": {
+            "address": "",
+            "postalCode": "93049",
+            "city": "Regensburg",
+            "countryCode": "DE",
+            "region": "Bavaria"
+        },
+        "profiles": [{
+                "network": "github",
+                "username": "knanw",
+                "url": "https://github.com/knanw"
+            },
+            {
+                "network": "linkedin",
+                "username": "Wolfram Knan",
+                "url": "https://linkedin.com/in/knanw"
+            }
+        ]
     },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "knanw",
-        "url": "https://github.com/knanw"
-      },
-      {
-        "network": "linkedin",
-        "username": "Wolfram Knan",
-        "url": "https://linkedin.com/in/knanw"
-      }
+    "interests": [{
+            "name": "Internet of Things",
+            "keywords": [
+                "Arduino"
+            ]
+        },
+        {
+            "name": "data mining",
+            "keywords": []
+        },
+        {
+            "name": "artificial intelligence",
+            "keywords": []
+        }
+    ],
+    "skills": [{
+            "name": "Languages and Frameworks",
+            "level": "",
+            "keywords": [
+                "Javascript",
+                "TypeScript",
+                "Vue.js",
+                "HTML/CSS",
+                "Java",
+                "Jakarta EE",
+                "Microprofile",
+                "SQL",
+                "Hibernate",
+                ".NET"
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "level": "",
+            "keywords": [
+                "Ubuntu/Linux",
+                "Git/GitHub",
+                "Docker",
+                "MacOS"
+            ]
+        }
+    ],
+    "education": [{
+        "institution": "University of Applied Sciences, Berlin",
+        "area": "Computer Science",
+        "website": "https://www.htw-berlin.de/",
+        "studyType": "B.S.",
+        "startDate": "2013-03-01",
+        "endDate": "2016-11-30",
+        "gpa": "2.9",
+        "courses": []
+    }],
+    "work": [{
+            "company": "GeekInBusiness GmbH",
+            "position": "Full Stack Developer",
+            "website": "",
+            "startDate": "2021-09-01",
+            "endDate": "Present",
+            "summary": "Software development and consulting for frontend and backend software",
+            "highlights": [
+                "Programming RESTful backend microservices with Java, Hibernate, SQL, Quarkus, Docker",
+                "Programming MVVC frontend components with TypeScript, JavaScript, Vue.js, Vuetify, Vuex",
+                "Extending and maintaining existing softwaren with Java, Primefaces, JPA, SQL",
+                "Drive, design and build software projects for PIM (product inforamtion management)",
+                "Migration of an Java-application with a PostgreSQL database on a linux server onto Windows with MS SQL Server"
+            ]
+        },
+        {
+            "company": "ProSiebenSat.1",
+            "position": "SAP Engineer",
+            "website": "https://www.prosiebensat1.com/",
+            "startDate": "2020-10-01",
+            "endDate": "2021-03-31",
+            "summary": "",
+            "highlights": [
+                "Programming in SAP Finance, Controlling and HR",
+                "Cashflow analysis: overview of profitability for individual products"
+            ]
+        },
+        {
+            "company": "Swisslog (KUKA AG)",
+            "position": "SAP EWM SW Engineer",
+            "website": "https://www.swisslog.com/",
+            "startDate": "2019-01-01",
+            "endDate": "2019-12-31",
+            "summary": "",
+            "highlights": [
+                "Implmenetation of mobile apps in scanner handhelds for intralogistic warehouse processes like inventory management, inbound, stock transfer, ad-hoc movements, information for storage bins and handling units.",
+                "Programming in SAP EWM"
+            ]
+        },
+        {
+            "company": "Oettinger Davidoff AG",
+            "position": "SAP Software Engineer",
+            "website": "http://oettingerdavidoff.com/",
+            "startDate": "2017-12-01",
+            "endDate": "2018-12-31",
+            "summary": "",
+            "highlights": [
+                "Programming extensions in SAP Sales, Materials Management and HR",
+                "Integration and development of interfaces with an enterprise-service-bus",
+                "Setting up the Fiori launchpad platform"
+            ]
+        },
+        {
+            "company": "Cerner Corporation",
+            "position": "SAP Developer for Healthcare",
+            "website": "https://www.cerner.com/",
+            "startDate": "2017-01-01",
+            "endDate": "2017-11-30",
+            "summary": "",
+            "highlights": [
+                "Programming of SAP IS-H solutions, subscreens and GUI's",
+                "Implementation of the new release management in hospitals §301 SGB"
+            ]
+        }
+    ],
+    "volunteer": [{
+        "organization": "",
+        "website": "",
+        "position": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": "",
+        "highlights": ["", ""]
+    }],
+    "awards": [{
+            "title": "B.Sc. thesis",
+            "date": "2016",
+            "awarder": "State of Berlin, Germany",
+            "summary": "Permanent exhibition of my thesis in the university library 'Evaluation of a BPMN-system and implementation of selected processes in a financial services company'"
+        },
+        {
+            "title": "Third place",
+            "date": "2015",
+            "awarder": "Microsoft Hackathon Berlin",
+            "summary": "My team won third place in 2015.  See my portfolio site for more details."
+        },
+        {
+            "title": "Erasmus+ Scholarship",
+            "date": "2014-2015",
+            "awarder": "State of Germany",
+            "summary": "Scholarships awarded to study abroad at the Ploytechnicum Institute Porto in Portugal for 6 months."
+        }
     ]
-  },
-  "interests": [
-    {
-      "name": "Internet of Things",
-      "keywords": [
-        "Arduino"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "Javascript",
-        "TypeScript",
-        "Vue.js",
-        "HTML/CSS",
-        "Java",
-        "Jakarta EE",
-        "Microprofile",
-        "SQL",
-        "Hibernate",
-        ".NET"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Ubuntu/Linux",
-        "Git/GitHub",
-        "Docker",
-        "MacOS"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Applied Sciences, Berlin",
-      "area": "Computer Science",
-      "website": "https://www.htw-berlin.de/",
-      "studyType": "B.S.",
-      "startDate": "2013-03-01",
-      "endDate": "2016-11-30",
-      "gpa": "2.9",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "GeekInBusiness GmbH",
-      "position": "Full Stack Developer",
-      "website": "",
-      "startDate": "2021-09-01",
-      "endDate": "Present",
-      "summary": "Software development and consulting for frontend and backend software",
-      "highlights": [
-         "Programming RESTful backend microservices with Java, Hibernate, SQL, Quarkus, Docker",
-        "Programming MVVC frontend components with TypeScript, JavaScript, Vue.js, Vuetify, Vuex",
-        "Extending and maintaining existing softwaren with Java, Primefaces, JPA, SQL",
-        "Drive, design and build software projects for PIM (product inforamtion management)",
-        "Migration of an Java-application with a PostgreSQL database on a linux server onto Windows with MS SQL Server"
-      ]
-    },
-    {
-      "company": "ProSiebenSat.1",
-      "position": "SAP Engineer",
-      "website": "https://www.prosiebensat1.com/",
-      "startDate": "2020-10-01",
-      "endDate": "2021-03-31",
-      "summary": "",
-      "highlights": [
-        "Programming in SAP Finance, Controlling and HR",
-        "Cashflow analysis: overview of profitability for individual products"
-      ]
-    },
-    {
-      "company": "Swisslog (KUKA AG)",
-      "position": "SAP EWM SW Engineer",
-      "website": "https://www.swisslog.com/",
-      "startDate": "2019-01-01",
-      "endDate": "2019-12-31",
-      "summary": "",
-      "highlights": [
-        "Implmenetation of mobile apps in scanner handhelds for intralogistic warehouse processes like inventory management, inbound, stock transfer, ad-hoc movements, information for storage bins and handling units.",
-        "Programming in SAP EWM"
-      ]
-    },
-    {
-      "company": "Oettinger Davidoff AG",
-      "position": "SAP Software Engineer",
-      "website": "http://oettingerdavidoff.com/",
-      "startDate": "2017-12-01",
-      "endDate": "2018-12-31",
-      "summary": "",
-      "highlights": [
-        "Programming extensions in SAP Sales, Materials Management and HR",
-        "Integration and development of interfaces with an enterprise-service-bus",
-        "Setting up the Fiori launchpad platform"
-      ]
-    },
-    {
-      "company": "Cerner Corporation",
-      "position": "SAP Developer for Healthcare",
-      "website": "https://www.cerner.com/",
-      "startDate": "2017-01-01",
-      "endDate": "2017-11-30",
-      "summary": "",
-      "highlights": [
-        "Programming of SAP IS-H solutions, subscreens and GUI's",
-        "Implementation of the new release management in hospitals §301 SGB"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": ["",""]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B.Sc. thesis",
-      "date": "2016",
-      "awarder": "State of Berlin, Germany",
-      "summary": "Permanent exhibition of my thesis in the university library 'Evaluation of a BPMN-system and implementation of selected processes in a financial services company'"
-    },
-    {
-      "title": "Third place",
-      "date": "2015",
-      "awarder": "Microsoft Hackathon Berlin",
-      "summary": "My team won third place in 2015.  See my portfolio site for more details."
-    },
-    {
-      "title": "Erasmus+ Scholarship",
-      "date": "2014-2015",
-      "awarder": "State of Germany",
-      "summary": "Scholarships awarded to study abroad at the Ploytechnicum Institute Porto in Portugal for 6 months."
-    }
-  ]
 }
