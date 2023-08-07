@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/speetato-screenshot.png
+image: images/speetato-square.png
 title: SpeeTato
 permalink: projects/speetato
 # All dates must be YYYY-MM-DD format!
