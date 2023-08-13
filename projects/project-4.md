@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blazor-icon.jpg
+image: images/blazor-icon.png
 title: Blazor Task App
 permalink: projects/taskapp
 # All dates must be YYYY-MM-DD format!
@@ -13,6 +13,8 @@ labels:
   - REST
   - ASP.NET
   - SPA
+  - SQL
+  - HTML/CSS
 
 summary: I developed an single page application to create, edit, delete and organize tasks.
 ---
@@ -70,7 +72,7 @@ update-database
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/taskapp-add.png">
-  <img class="ui image" src="../images/taskapp-edit.jpg">
+  <img class="ui image" src="../images/taskapp-edit.png">
 </div>
 
 From there, I then programmed the basic CRUD operations like read, create, update, delete and the corresponding basic RESTful endpoints for GET, POST, PUT/PATCH and DELETE edit for the single page application. From the overview page with the list of tasks the user can directly add a new task in a new create window. For every task there is an edit and delete button which directs to different windows where the user can process tasks. I finished with implementing the different frontend pages with the Blazor Framework.
@@ -81,25 +83,25 @@ Here is some code that illustrates how I create the table for the tasks in the b
 
 ```c#
 migrationBuilder.CreateTable(
-                name: "Jobs",
-                columns: table => new
-                {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Status = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DueDate = table.Column<DateTime>(type: "datetime", nullable: false),
-                    Priority = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Size = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Master = table.Column<int>(type: "int", nullable: false),
-                    Description = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Note = table.Column<string>(type: "nvarchar(max)", nullable: true)
-                },
-                constraints: table =>
-                {
-                    table.PrimaryKey("PK_Jobs", x => x.Id);
-                });
+  name: "Jobs",
+  columns: table => new
+  {
+      Id = table.Column<int>(type: "int", nullable: false)
+          .Annotation("SqlServer:Identity", "1, 1"),
+      Name = table.Column<string>(type: "nvarchar(max)", nullable: true),
+      Status = table.Column<string>(type: "nvarchar(max)", nullable: true),
+      DueDate = table.Column<DateTime>(type: "datetime", nullable: false),
+      Priority = table.Column<string>(type: "nvarchar(max)", nullable: true),
+      Size = table.Column<string>(type: "nvarchar(max)", nullable: true),
+      Master = table.Column<int>(type: "int", nullable: false),
+      Description = table.Column<string>(type: "nvarchar(max)", nullable: true),
+      Note = table.Column<string>(type: "nvarchar(max)", nullable: true)
+  },
+  constraints: table =>
+  {
+      table.PrimaryKey("PK_Jobs", x => x.Id);
+  });
 ```
 
-Source: <a href="https://github.com/knanw/TaskApp/"><i class="large github icon"></i>Blazor Task App</a> 
+Source: <a href="https://github.com/knanw/BlazorTaskApp/"><i class="large github icon"></i>Blazor Task App</a> 
 
