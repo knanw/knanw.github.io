@@ -27,17 +27,27 @@
         ]
     },
     "interests": [{
-            "name": "Internet of Things",
-            "keywords": [
-                "Arduino"
-            ]
+            "name": "Artificial intelligence",
+            "keywords": []
         },
         {
             "name": "data mining",
             "keywords": []
         },
         {
-            "name": "artificial intelligence",
+            "name": "machine learning",
+            "keywords": []
+        },
+        {
+            "name": "data science",
+            "keywords": []
+        },
+        {
+            "name": "deep learning",
+            "keywords": []
+        }
+        {
+            "name": "NLP",
             "keywords": []
         }
     ],
@@ -45,17 +55,18 @@
             "name": "Languages and Frameworks",
             "level": "",
             "keywords": [
-                "Javascript",
-                "TypeScript",
+                "Java-/TypeScript",
                 "Vue.js",
+                "React.js",
+                "Node.js",
                 "HTML/CSS",
                 "Java",
                 "Jakarta EE",
                 "Microprofile",
                 "SQL",
-                "Hibernate",
-                ".NET"
-            ]
+                "Pyhton",
+                "Numpy/Pandas",
+                "Hibernate"            ]
         },
         {
             "name": "Toolsets/OS",
@@ -63,7 +74,8 @@
             "keywords": [
                 "Ubuntu/Linux",
                 "Git/GitHub",
-                "Docker",
+                "Docker/Kubernetes",
+                "DevOps/CI & CD",
                 "MacOS"
             ]
         }
@@ -86,6 +98,10 @@
             "endDate": "Present",
             "summary": "Software development and consulting for frontend and backend software",
             "highlights": [
+                "Platform developer for Backstage.io (React, Typescript and Node):",
+                "  ◦ Integration, requirements analysis, development and testing of plugins",
+                "Implementation of an automated Scrum report with API connections",
+                "Implementation of requirements with JavaEE, Kafka, Docker, K8s, Git, SQL",
                 "Programming RESTful backend microservices with Java, Hibernate, SQL, Quarkus, Docker",
                 "Programming MVVC frontend components with TypeScript, JavaScript, Vue.js, Vuetify, Vuex",
                 "Extending and maintaining existing softwaren with Java, Primefaces, JPA, SQL",
