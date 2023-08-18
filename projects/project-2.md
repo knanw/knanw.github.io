@@ -70,10 +70,10 @@ add-migration initial
 update-database
 ````
 
-<div class="ui medium rounded images">
-  <img class="ui image" src="../images/taskapp-add.png">
-  <img class="ui image" src="../images/taskapp-edit.png">
-</div>
+<img class="ui image" src="{{ site.baseurl }}/images/taskapp-add.png">
+</br>
+<img class="ui image" src="{{ site.baseurl }}/images/taskapp-edit.png">
+
 
 From there, I then programmed the basic CRUD operations like read, create, update, delete and the corresponding basic RESTful endpoints for GET, POST, PUT/PATCH and DELETE edit for the single page application. From the overview page with the list of tasks the user can directly add a new task in a new create window. For every task there is an edit and delete button which directs to different windows where the user can process tasks. I finished with implementing the different frontend pages with the Blazor Framework.
 
