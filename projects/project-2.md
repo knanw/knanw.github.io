@@ -71,7 +71,7 @@ update-database
 ````
 
 <img class="ui image" src="{{ site.baseurl }}/images/taskapp-add.png">
-</br>
+<br>
 <img class="ui image" src="{{ site.baseurl }}/images/taskapp-edit.png">
 
 
