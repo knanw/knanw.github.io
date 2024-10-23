@@ -20,6 +20,9 @@ labels:
 summary: I developed an microservice with a primefaces frontend running on a payara application server to create, update, delete, read and organize cars.
 ---
 
+Teaser:
+I developed an microservice with a primefaces frontend running on a payara application server to create, update, delete, read and organize cars.
+
 <img class="ui image" src="{{ site.baseurl }}/images/jee-overview.png">
 <img class="ui image" src="{{ site.baseurl }}/images/jee-create.png">
 <img class="ui image" src="{{ site.baseurl }}/images/jee-read.png">
@@ -28,7 +31,6 @@ summary: I developed an microservice with a primefaces frontend running on a pay
 <img class="ui image" src="{{ site.baseurl }}/images/jee-tableview.png">
 <img class="ui image" src="{{ site.baseurl }}/images/jee-payara.png">
 
-Teaser:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
