@@ -23,6 +23,7 @@ summary: I developed an microservice with a primefaces frontend running on a pay
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/webshop-vue01.png">
+<br>
 
 Teaser:
 
@@ -56,19 +57,19 @@ Frontend Management:
 - Menu for adding, editing, and deleting books.
 
 <img class="ui image" src="{{ site.baseurl }}/images/webshop-vue02.png">
-
+<br>
 
 - Navigation bar button for adding, editing, and deleting series.
 
 <img class="ui image" src="{{ site.baseurl }}/images/webshop-vue03.png">
-
+<br>
 
 - Page for optimal price calculation:
   - Books are selected in the book page and stored temporarily.
   - On the cart page, clicking the button to calculate the optimal price loads data from temporary storage and displays the optimal price.
 
 <img class="ui image" src="{{ site.baseurl }}/images/webshop-vue04.png">
-
+<br>
 
 - Testing:
 
