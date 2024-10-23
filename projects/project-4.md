@@ -57,16 +57,19 @@ Frontend Management:
 
 <img class="ui image" src="{{ site.baseurl }}/images/webshop-vue02.png">
 
+
 - Navigation bar button for adding, editing, and deleting series.
 
 <img class="ui image" src="{{ site.baseurl }}/images/webshop-vue03.png">
+
 
 - Page for optimal price calculation:
   - Books are selected in the book page and stored temporarily.
   - On the cart page, clicking the button to calculate the optimal price loads data from temporary storage and displays the optimal price.
 
 <img class="ui image" src="{{ site.baseurl }}/images/webshop-vue04.png">
-  
+
+
 - Testing:
 
   - JUnit: Unit testing framework for Java.
