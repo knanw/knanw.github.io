@@ -6,7 +6,7 @@
         "email": "knanw@outlook.com",
         "phone": "",
         "website": "https://knanw.github.io",
-        "summary": "I am an experienced and passionate senior software developer. I have a Bachelor's degree in Applied Computer Science with a specialization in Data Science and more than 7 years of professional work experience in different industries. I have experience with various programming languages, frameworks and tools among others in Java, TypeScript, Go, Python, Vue, React, Docker, Kubernetes and many more. I’m always interested new technologies. I am a creative and motivated team player.",
+        "summary": "Experienced Senior Software Developer transitioning into Machine Learning Engineering. I possess a Bachelor's degree in Applied Computer Science with a Data Science specialization and 7+ years of professional experience across diverse industries. My background includes a strong foundation in languages and tools like Python, Java, TypeScript, Go, Node.js, and Kubernetes. I'm leveraging my extensive development and data-focused expertise to excel in ML/AI applications. Creative, motivated, and always eager to adopt new technologies.",
         "location": {
             "address": "",
             "postalCode": "93049",
@@ -88,7 +88,18 @@
             ]
         }
     ],
-    "education": [{
+    "education": [
+        {
+        "institution": "DataScientest, University Panthéon-Sorbonne, Paris, France",
+        "area": "Machine Learning Engineer",
+        "website": "https://datascientest.com/",
+        "studyType": "Diploma",
+        "startDate": "2025-10-01",
+        "endDate": "2026-03-31",
+        "gpa": "",
+        "courses": []
+        },
+        {
         "institution": "University of Applied Sciences, Berlin",
         "area": "Computer Science",
         "website": "https://www.htw-berlin.de/",
@@ -97,8 +108,8 @@
         "endDate": "2016-11-30",
         "gpa": "2.1",
         "courses": []
-    },
-    {
+        },
+        {
         "institution": "Academy of Fine Arts, Nuremberg",
         "area": "Visual Arts",
         "website": "https://adbk-nuernberg.de/",
@@ -107,7 +118,7 @@
         "endDate": "2010-03-31",
         "gpa": "1.0",
         "courses": []
-    }],
+        }],
     "work": [{
             "company": "GeekInBusiness",
             "position": "Senior SW-Consultant (Java, Go, Python, Node.js, TypeScript)",
