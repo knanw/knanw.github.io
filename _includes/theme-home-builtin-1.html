@@ -26,7 +26,7 @@
         </div>-->
         <div class="center aligned description">
           {% for line in site.data.bio.basics.summary %}
-            {{ line.line }}{% if forloop.last != true %}, {% endif %}
+            <p>{{ line.line }}</p>
           {% endfor %}
         </div>
       </div>
