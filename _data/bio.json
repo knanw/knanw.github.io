@@ -6,7 +6,13 @@
         "email": "knanw@outlook.com",
         "phone": "",
         "website": "https://knanw.github.io",
-        "summary": "Machine Learning Engineer | Senior Software Consultant AI: PyTorch, TensorFlow, Scikit-learn Engineering: Python, Java, Go | Microservices, K8s (MLOps), Cloud-Native: Architecture, Full-Stack (Vue, React), SQL",        "location": {
+        "summary": [
+            {"line": "Machine Learning Engineer | Senior Software Consultant",},
+            {"line": "AI: PyTorch, TensorFlow, Keras, Scikit-learn"},
+            {"line": "Engineering: Python, Java, Go | Microservices, K8s (MLOps)"},
+            {"line": "Architecture: Cloud-Native, Full-Stack (Vue, React), SQL"}
+        ],      
+        "location": {
             "address": "",
             "postalCode": "93049",
             "city": "Regensburg",
